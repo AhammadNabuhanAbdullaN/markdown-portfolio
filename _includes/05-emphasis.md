@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ *I am an engineering student*
+_of Awh engineering college_
+
+**S3 Btech student**
+__CSE batch__
+
+_interested in **coding** languages_
